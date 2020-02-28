@@ -1,0 +1,22 @@
+.navbar-brand {
+    background-color: teal;
+    color: white;
+    margin: 0px;
+    padding: 15px 10px 15px 10px;
+}
+
+section {
+    background-color: white;
+    margin: 25px;
+    padding: 25px;
+}
+
+.navbar {
+    background-color: white;
+    font-size: 13px;
+    color: lightgray;
+}
+
+body {
+    background-color: grey;
+}
